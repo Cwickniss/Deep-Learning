@@ -1,4 +1,4 @@
-# Machine Learning
+# Deep Learning
 I has Successfully completed Deep Learning Specialization from Coursera by Andrew Ng.I have also done  
 different courses from Udemy which is Deep Learning A-Z by krill and Some other course base on Libraries Some base on theoratical 
 and Some base on Practical which I have learn.I have also read different blogs, research papers to boost up my Deep Learning concept.
