@@ -3,10 +3,16 @@ I have a great experience in Deep Learning.I has Successfully completed Deep Lea
 After learn all of that I works a diferrent projects on Deep Learning taken dataset from UCI and Kaggle.I also done #100DaysMLCode Challenges which I done practical implementation of Machine Learning, Deep Learning, Computer Vision and Natural Language Processing As you can see my 100DaysMLCode repositories in Github.I also writing a blog on Machine Learning & Deep Learning 
 artices from Scratch on medium.I have a one Publication on Deep Learning base on Supervised Deep Learning Model use Multi Layer 
 Perceptrons model.
+#### My LinkedIn Profile:
+https://www.linkedin.com/in/amiralicheema/
+
 #### My Research papers LinK:
 1.	https://www.researchgate.net/publication/329277388_Application_of_Multilayer_Perceptron_MLP_for_Data_Mining_in_Healthcare_Operations
 2.	https://www.researchgate.net/publication/329515048_Performance_Evaluation_of_Supervised_Machine_Learning_Classifiers_for_Predicting_Healthcare_Operational_Decisions
 
+#### My Certificates on Deep Learning:
+1.	https://drive.google.com/file/d/1AdedeYJyWkrJcMJ9nqZX9CxyBWk7PrWm/view?usp=sharing
+2.	https://www.udemy.com/certificate/UC-OK2UEVZO/
 
 The following Projects which I have done In Deep Learning is here:
 
