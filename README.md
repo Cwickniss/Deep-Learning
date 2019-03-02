@@ -14,6 +14,10 @@ https://www.linkedin.com/in/amiralicheema/
 1.	https://drive.google.com/file/d/1AdedeYJyWkrJcMJ9nqZX9CxyBWk7PrWm/view?usp=sharing
 2.	https://www.udemy.com/certificate/UC-OK2UEVZO/
 
+#### My Medium Blog
+https://medium.com/machine-learning-researcher
+
+
 The following Projects which I have done In Deep Learning is here:
 
 ## <----------------------------Supervised Deep Learning --------------------------->
