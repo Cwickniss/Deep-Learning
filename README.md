@@ -1,15 +1,15 @@
 # Deep Learning
-I has Successfully completed Deep Learning Specialization from Coursera by Andrew Ng.I have also done  
-different courses from Udemy which is Deep Learning A-Z by krill and Some other course base on Libraries Some base on theoratical 
-and Some base on Practical which I have learn.I have also read different blogs, research papers to boost up my Deep Learning concept.
-After learn all of this I make a diferrent projects on Deep Learning which I upload in this Repositories taken dataset from different 
-Sources like UCI, Kaggle, Stanford.I also done #100DaysMLCode Challenges.I also writing a blog on Machine Learning & Deep Learning 
-artices from Scratch on medium.I have a Publication on Deep Learning base on Supervised Deep Learning Model use Multi Layer 
-Perceptrons model.Reference of my paper:'Application of Multilayer Perceptron (MLP) for Data Mining in Healthcare Operations'.
+I have a great experience in Deep Learning.I has Successfully completed Deep Learning Specialization from Coursera by Andrew Ng.I have also done  different courses from Udemy which is Deep Learning A-Z by krill and Some other course base on Practical and Some base on theoratical. which I have learn.I have also read different blogs, research papers to boost up my Deep Learning concept.
+After learn all of that I works a diferrent projects on Deep Learning taken dataset from UCI and Kaggle.I also done #100DaysMLCode Challenges which I done practical implementation of Machine Learning, Deep Learning, Computer Vision and Natural Language Processing As you can see my 100DaysMLCode repositories in Github.I also writing a blog on Machine Learning & Deep Learning 
+artices from Scratch on medium.I have a one Publication on Deep Learning base on Supervised Deep Learning Model use Multi Layer 
+Perceptrons model.
+#### My Research papers LinK:
+1.	https://www.researchgate.net/publication/329277388_Application_of_Multilayer_Perceptron_MLP_for_Data_Mining_in_Healthcare_Operations
+2.https://www.researchgate.net/publication/329515048_Performance_Evaluation_of_Supervised_Machine_Learning_Classifiers_for_Predicting_Healthcare_Operational_Decisions
 
-The following Projects which I have done In Deep Learning:
+The following Projects which I have done In Deep Learning is here:
 
-   ## <------------------------------Supervised Deep Learning ----------------------------->
+## <------------------------------Supervised Deep Learning ----------------------------->
 
 ### Project 1: Artificial Neural Networks to solve a Customer Churn problem
 In this part we solve a data analytics challenge for a bank. The dataset with a large sample of  the bank's customers. To make this 
@@ -30,7 +30,8 @@ literally be able to a takea picture of your cat or your dog, and your model wil
 train our cat and dog dataset which contains ten thousands images of cat and dog and we train 80% image for training and remaining 
 20% image for testing and weget more than 80% accuracy. After this we just test only take one image of cat and Dog than predict 
 using Sigmoid function in output layer and our model correctly predict.
-Source: Jeremy Elson, John R. Douceur, Jon Howell, Jared Saul, Asirra: A CAPTCHA that Exploits Interest-Aligned Manual 
+##### Source: 
+Jeremy Elson, John R. Douceur, Jon Howell, Jared Saul, Asirra: A CAPTCHA that Exploits Interest-Aligned Manual 
 Image Categorization, in Proceedings of 14th ACM Conference on Computer and Communications Security (CCS), Association 
 for Computing Machinery, Inc., Oct. 2007
 
@@ -45,7 +46,7 @@ this ultra-powerful model, and we take the challenge to use it to predict the re
 has already been faced by researchers at Stanford University and we to do at least as good as them.In the end we train 200
 number of epoch after building our model we get more than 85% of real time Google Stock Price Prediction. And In the end 
 we compare our result with real time Google stock price and our predicted line is almost close to real time Google stock price.
-Reference:
+##### Reference:
 Financial Market Time Series Prediction with Recurrent Neural Networks Armando Bernal, Sam Fok, Rohit Pidaparthi December 14, 2012.
 
 ## <----------------------------Unsupervised Deep Learning --------------------------->
@@ -69,7 +70,7 @@ the customers didn’t watch. Accordingly, by ranking the predictions from 5 dow
 which movies each user should watch. We use our model Deep Belief Networks, complex Boltzmann. The list of movies explicit so 
 simply need to rate the movies you already watched, input your ratings in the dataset, execute our model and voila! The Recommender
 System will tell you exactly which movies you would love one night you if are out of ideas of what to watch on Netflix! 
-Reference:
+##### Reference:
 An Introduction to Restricted Boltzmann Machines Asja Fischer1,2 and Christian Igel2 1 Institut f¨ur Neuroinformatik,
 Ruhr-Universit¨at Bochum, Germany 2 Department of Computer Science, University of Copenhagen, Denmark.
 
