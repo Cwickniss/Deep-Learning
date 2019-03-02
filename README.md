@@ -5,11 +5,12 @@ artices from Scratch on medium.I have a one Publication on Deep Learning base on
 Perceptrons model.
 #### My Research papers LinK:
 1.	https://www.researchgate.net/publication/329277388_Application_of_Multilayer_Perceptron_MLP_for_Data_Mining_in_Healthcare_Operations
-2.https://www.researchgate.net/publication/329515048_Performance_Evaluation_of_Supervised_Machine_Learning_Classifiers_for_Predicting_Healthcare_Operational_Decisions
+2.	https://www.researchgate.net/publication/329515048_Performance_Evaluation_of_Supervised_Machine_Learning_Classifiers_for_Predicting_Healthcare_Operational_Decisions
+
 
 The following Projects which I have done In Deep Learning is here:
 
-## <------------------------------Supervised Deep Learning ----------------------------->
+## <----------------------------Supervised Deep Learning --------------------------->
 
 ### Project 1: Artificial Neural Networks to solve a Customer Churn problem
 In this part we solve a data analytics challenge for a bank. The dataset with a large sample of  the bank's customers. To make this 
