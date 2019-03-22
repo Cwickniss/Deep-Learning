@@ -1,14 +1,16 @@
 # Deep Learning
 I have a great experience in Deep Learning.I has Successfully completed Deep Learning Specialization from Coursera by Andrew Ng.I have also done  different courses from Udemy which is Deep Learning A-Z by krill and Some other course base on Practical and Some base on theoratical. which I have learn.I have also read different blogs, research papers to boost up my Deep Learning concept.
 After learn all of that I works a diferrent projects on Deep Learning taken dataset from UCI and Kaggle.I also done #100DaysMLCode Challenges which I done practical implementation of Machine Learning, Deep Learning, Computer Vision and Natural Language Processing As you can see my 100DaysMLCode repositories in Github.I also writing a blog on Machine Learning & Deep Learning 
-artices from Scratch on medium.I have a one Publication on Deep Learning base on Supervised Deep Learning Model use Multi Layer 
-Perceptrons model.
+artices from Scratch on medium.I have a Publications on Deep Learning. I also Publish a book on Machine Learning.
 #### My LinkedIn Profile:
 https://www.linkedin.com/in/amiralicheema/
 
 #### My Research papers LinK:
 1.	https://www.researchgate.net/publication/329277388_Application_of_Multilayer_Perceptron_MLP_for_Data_Mining_in_Healthcare_Operations
 2.	https://www.researchgate.net/publication/329515048_Performance_Evaluation_of_Supervised_Machine_Learning_Classifiers_for_Predicting_Healthcare_Operational_Decisions
+
+#### My Book: Hands-On Machine Learing with Scikit-Learn
+https://www.amazon.com/dp/1090626797
 
 #### My Certificates on Deep Learning:
 1.	https://drive.google.com/file/d/1AdedeYJyWkrJcMJ9nqZX9CxyBWk7PrWm/view?usp=sharing
