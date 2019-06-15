@@ -1,7 +1,8 @@
 # Deep Learning
 I have a great experience in Deep Learning.I has Successfully completed Deep Learning Specialization from Coursera by Andrew Ng.I have also done  different courses from Udemy which is Deep Learning A-Z by krill and Some other course base on Practical and Some base on theoratical. which I have learn.I have also read different blogs, research papers to boost up my Deep Learning concept.
 After learn all of that I works a diferrent projects on Deep Learning taken dataset from UCI and Kaggle.I also done #100DaysMLCode Challenges which I done practical implementation of Machine Learning, Deep Learning, Computer Vision and Natural Language Processing As you can see my 100DaysMLCode repositories in Github.I also writing a blog on Machine Learning & Deep Learning 
-artices from Scratch on medium.I have a Publications on Deep Learning. I also Publish a book on Machine Learning.
+artices from Scratch on medium.I have a Publications on Deep Learning. I also publish some research poster and I also publish a two books on Machine Learning and Deep Learning currently available on amazon.
+
 #### My LinkedIn Profile:
 https://www.linkedin.com/in/amiralicheema/
 
@@ -9,14 +10,22 @@ https://www.linkedin.com/in/amiralicheema/
 1.	https://www.researchgate.net/publication/329277388_Application_of_Multilayer_Perceptron_MLP_for_Data_Mining_in_Healthcare_Operations
 2.	https://www.researchgate.net/publication/329515048_Performance_Evaluation_of_Supervised_Machine_Learning_Classifiers_for_Predicting_Healthcare_Operational_Decisions
 
-#### My Book: Hands-On Machine Learing with Scikit-Learn
+#### My Research Poster Link:
+1.	https://www.researchgate.net/publication/332210780_Effective_Prediction_Findings_Using_Decision_Tree_Classification_A_Social_Network_Ads_Challenge
+2.	https://www.researchgate.net/publication/332210663_Cancer_Remission_and_Cell_Activity_Classification_System_Based_on_Applied_Categorical_Naive_Bayes_Analysis
+3. https://www.researchgate.net/publication/332209067_Foundational_Practical_Approach_for_Quality_Predictions_Based_on_Simple_Linear_Regression
+
+#### My Books
+##### 1st Book: Hands on Machine Learning with Scikit-Learn
 https://www.amazon.com/dp/1090626797
+##### 2nd Book: Deep Learning Objective
+https://www.amazon.com/dp/1070238945
 
 #### My Certificates on Deep Learning:
 1.	https://drive.google.com/file/d/1AdedeYJyWkrJcMJ9nqZX9CxyBWk7PrWm/view?usp=sharing
 2.	https://www.udemy.com/certificate/UC-OK2UEVZO/
 
-#### My Medium Blog
+#### My Blog on Machine Learning and Deep Learning:
 https://medium.com/machine-learning-researcher
 
 
