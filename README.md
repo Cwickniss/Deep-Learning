@@ -71,7 +71,7 @@ we compare our result with real time Google stock price and our predicted line i
 ##### Reference:
 Financial Market Time Series Prediction with Recurrent Neural Networks Armando Bernal, Sam Fok, Rohit Pidaparthi December 14, 2012.
 
-## <----------------------------Unsupervised Deep Learning --------------------------->
+## <-------------------------Unsupervised Deep Learning --------------------------->
 
 ### Project 4: Self-Organizing Maps to investigate Fraud
 According to a recent report published by Markets & Markets the Fraud Detection and Prevention Market is going to be worth 
