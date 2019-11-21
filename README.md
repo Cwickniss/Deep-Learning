@@ -1,7 +1,7 @@
-# Machine Learning
+# Deep Learning
 In this repository, I upload my Complete Deep Learning code which I have learned from different courses(Coursera, udemy, edx, udacity), different websites blogs, different tutorials from YouTube, books, and research papers. I have covered both Supervised and Unsupervised Deep Learning Algorithms with Practical Implementation.
 
-#### Our Machine Learning Blog
+#### Our Deep Learning Blog
 ###### Link: https://medium.com/machine-learning-researcher
 
 #### Book that we write on Deep Learning Topic Available on Amazon
